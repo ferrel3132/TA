@@ -14,6 +14,7 @@ function navHeader() {
               width="70"
               height="70"
               className="d-inline-block align-top"
+              alt='logo taekwondo'
             />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
